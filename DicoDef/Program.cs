@@ -13,6 +13,7 @@ namespace DicoDef
 {
     class Program
     {
+        //Version GitHub
         static void Main(string[] args)
         {
             creerDictionnaire("H:/Mes Fichiers/Ressources Programmation/lexique/dictEtDef.txt", "H:/Mes Fichiers/Ressources Programmation/lexique/liste_francais_reduite.txt");
